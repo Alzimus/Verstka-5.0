@@ -89,7 +89,7 @@ footer {
     font-weight: 500;
     font-size: 20px;
     line-height: 24px;
-
+    text-decoration: none;
     color: #533738;
 }
 
@@ -171,4 +171,9 @@ ul li {
 
 nav ul li {
     display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: #533738;
 }
